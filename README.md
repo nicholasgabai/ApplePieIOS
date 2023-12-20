@@ -1,7 +1,6 @@
 # ApplePieProject
 Apple Pie Project is a short interactive game similar to hangman; based from the [App Development with Swift](https://books.apple.com/us/book/develop-in-swift-fundamentals/id1581182804) XCode v.13.
-
-This repository contains the source code of the Apple Pie Project of Unit 2 in App Development with Swift. Consisting of 5 parts.
+The Repository contains the source code of the Apple Pie Project of Unit 2 in App Development with Swift. Consisting of 5 parts.
 
 
 ## Part 1: Building the Interface
@@ -20,3 +19,13 @@ This repository contains the source code of the Apple Pie Project of Unit 2 in A
 
 ## Part 5: Win or Loss Handling
   The last part adds the code to restart a game when the player either guessed the word correctly or incorrectly.
+
+## Github Directory Outline
+ApplePie_Gabai Folder : 
+  - Containing ApplePie_Gabai.xcodeproj to run the Project as a whole, as well as all the source code
+
+ApplePie_Gabai.zip :
+  - Zipped version of ApplePie_Gabai Folder for ease of access
+
+Apple Pie App.pptx :
+  - Powerpoint for additional information
